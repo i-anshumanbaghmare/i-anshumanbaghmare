@@ -1,5 +1,9 @@
-# Hi, I'm Anshuman Baghmare 👋  
-Data Science Enthusiast | AI & Data Science Graduate | Python • SQL • Excel
+<h1 align="left">
+  Hi, I'm Anshuman Baghmare 👋
+  <img src="https://github.com/i-anshumanbaghmare/i-anshumanbaghmare/blob/main/Logo-torn.png" width="130" align="left">
+</h1>
+
+### Data Science Enthusiast | AI & Data Science Graduate | Python • SQL • Excel <br><br>
 
 I am passionate about using data to solve real-world problems and building practical AI applications.  
 My interests include **data analysis**, **machine learning**, **NLP**, and **business intelligence**.
