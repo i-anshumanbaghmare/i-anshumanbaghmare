@@ -13,15 +13,15 @@ My interests include **data analysis**, **machine learning**, **NLP**, and **bus
 ## 🔧 Top Skills  
 - **Programming:** Python, SQL, Java  
 - **Data:** Pandas, NumPy, Excel, Data Visualization  
-- **Machine Learning:** Scikit-learn, TensorFlow & Pytorch basics  
-- **Tools:** Git, Jupyter, MySQL, Flask  
+- **Machine Learning:** diffusers, Scikit-learn, TensorFlow & Pytorch
+- **Tools:** Git, Jupyter, MySQL, Flask, ComfyUI 
 
 ---
 
 ## 📂 Top Projects  
-- **Walmart Sales Forecasting** – Time series + ML  
-- **AI Financial Tracker** – Python + NLP-based transaction analysis  
-- **Voice cloning and Text to Speech Project** – Great for generating audio narrations
+- **Walmart Sales Forecasting** – Advance Data Complexicity Analysis + Time series Analysis + ML techniques comparison with winner's Benchmark
+- **AI Financial Tracker** – Python + NLP-based transaction analysis + Financial Data Extraction 
+- **Voice cloning and Text to Speech Project** – Pipeline for audio cloning 'n narrations
 
 ---
 
@@ -29,7 +29,9 @@ My interests include **data analysis**, **machine learning**, **NLP**, and **bus
 - Advanced SQL  
 - Business Analytics  
 - NLP techniques  
-- Data pipelines  
+- Data pipelines
+- Image generation / GenAI
+- AI optimization
 
 ---
 
