@@ -8,7 +8,7 @@
 I am passionate about using data to solve real-world problems and building practical AI applications.  
 My interests include **data analysis**, **machine learning**, **NLP**, and **business intelligence**.
 
----
+
 
 ## 🔧 Top Skills  
 - **Programming:** Python, SQL, Java  
