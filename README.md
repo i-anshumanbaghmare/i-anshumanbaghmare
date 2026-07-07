@@ -6,7 +6,7 @@
 ### Data Science Enthusiast | AI & Data Science Graduate | Python • SQL • Excel <br><br>
 
 I am passionate about using data to solve real-world problems and building practical AI applications.  
-My interests include **data analysis**, **machine learning**, **NLP**, and **business intelligence**.
+My interests include **data analysis**, **ML models**, **NLP**, and **business intelligence**.
 
 
 
